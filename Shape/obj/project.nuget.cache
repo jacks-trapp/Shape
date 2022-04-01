@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "uB9RM/Evf0jPaFy8FQDB8NOtl8Z6GS3+EG8aOobOsVAmEOq/7w7nudLkMsTdKcgngD4eSAv+iot6YeGQt49KQA==",
+  "dgSpecHash": "Kea9s1uxxHdTnPD9wRwOvmy1Arw4/xFpAVJ0LrK3PfbBKvT26Fx/NWCZOB5t0HWJ/lmBgMUS01Kz9dUAcMxRCw==",
   "success": true,
-  "projectFilePath": "/Users/jacksontrapp/Desktop/CSC 260/Shape/Shape/Shape.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Jackson\\source\\repos\\Shape\\Shape\\Shape.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jackson\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Jackson\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Jackson\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Jackson\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

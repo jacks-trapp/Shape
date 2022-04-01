@@ -11,3 +11,17 @@
 /Users/jacksontrapp/Desktop/CSC 260/Shape/Shape/obj/Debug/netcoreapp3.1/Shape.pdb
 /Users/jacksontrapp/Desktop/CSC 260/Shape/Shape/obj/Debug/netcoreapp3.1/Shape.genruntimeconfig.cache
 /Users/jacksontrapp/Desktop/CSC 260/Shape/Shape/obj/Debug/netcoreapp3.1/Shape.csproj.AssemblyReference.cache
+C:\Users\Jackson\source\repos\Shape\Shape\bin\Debug\netcoreapp3.1\Shape.exe
+C:\Users\Jackson\source\repos\Shape\Shape\bin\Debug\netcoreapp3.1\Shape.deps.json
+C:\Users\Jackson\source\repos\Shape\Shape\bin\Debug\netcoreapp3.1\Shape.runtimeconfig.json
+C:\Users\Jackson\source\repos\Shape\Shape\bin\Debug\netcoreapp3.1\Shape.runtimeconfig.dev.json
+C:\Users\Jackson\source\repos\Shape\Shape\bin\Debug\netcoreapp3.1\Shape.dll
+C:\Users\Jackson\source\repos\Shape\Shape\bin\Debug\netcoreapp3.1\Shape.pdb
+C:\Users\Jackson\source\repos\Shape\Shape\obj\Debug\netcoreapp3.1\Shape.csproj.AssemblyReference.cache
+C:\Users\Jackson\source\repos\Shape\Shape\obj\Debug\netcoreapp3.1\Shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jackson\source\repos\Shape\Shape\obj\Debug\netcoreapp3.1\Shape.AssemblyInfoInputs.cache
+C:\Users\Jackson\source\repos\Shape\Shape\obj\Debug\netcoreapp3.1\Shape.AssemblyInfo.cs
+C:\Users\Jackson\source\repos\Shape\Shape\obj\Debug\netcoreapp3.1\Shape.csproj.CoreCompileInputs.cache
+C:\Users\Jackson\source\repos\Shape\Shape\obj\Debug\netcoreapp3.1\Shape.dll
+C:\Users\Jackson\source\repos\Shape\Shape\obj\Debug\netcoreapp3.1\Shape.pdb
+C:\Users\Jackson\source\repos\Shape\Shape\obj\Debug\netcoreapp3.1\Shape.genruntimeconfig.cache
