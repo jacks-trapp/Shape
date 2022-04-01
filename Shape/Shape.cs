@@ -14,6 +14,7 @@ namespace Shapes
             Console.WriteLine("pushing to github");
             Console.WriteLine("change has been made");
             Console.WriteLine("this change was made on desktop");
+            Console.WriteLine("made on laptop, might finally be working");
         }
 
         public abstract double CalculateArea();
