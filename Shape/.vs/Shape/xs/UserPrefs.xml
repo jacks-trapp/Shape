@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{3E7735C2-5341-4096-BFB7-1B909203221A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Shape PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Rectangle.cs">
+    <Files>
+      <File FileName="Rectangle.cs" Line="104" Column="2" />
+      <File FileName="Shape.cs" Line="10" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Shape" expanded="True">
+            <Node name="Shape" expanded="True">
+              <Node name="Rectangle.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

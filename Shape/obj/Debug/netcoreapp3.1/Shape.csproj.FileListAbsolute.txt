@@ -1,0 +1,13 @@
+/Users/jacksontrapp/Desktop/CSC 260/Shape/Shape/bin/Debug/netcoreapp3.1/Shape.deps.json
+/Users/jacksontrapp/Desktop/CSC 260/Shape/Shape/bin/Debug/netcoreapp3.1/Shape.runtimeconfig.json
+/Users/jacksontrapp/Desktop/CSC 260/Shape/Shape/bin/Debug/netcoreapp3.1/Shape.runtimeconfig.dev.json
+/Users/jacksontrapp/Desktop/CSC 260/Shape/Shape/bin/Debug/netcoreapp3.1/Shape.dll
+/Users/jacksontrapp/Desktop/CSC 260/Shape/Shape/bin/Debug/netcoreapp3.1/Shape.pdb
+/Users/jacksontrapp/Desktop/CSC 260/Shape/Shape/obj/Debug/netcoreapp3.1/Shape.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacksontrapp/Desktop/CSC 260/Shape/Shape/obj/Debug/netcoreapp3.1/Shape.AssemblyInfoInputs.cache
+/Users/jacksontrapp/Desktop/CSC 260/Shape/Shape/obj/Debug/netcoreapp3.1/Shape.AssemblyInfo.cs
+/Users/jacksontrapp/Desktop/CSC 260/Shape/Shape/obj/Debug/netcoreapp3.1/Shape.csproj.CoreCompileInputs.cache
+/Users/jacksontrapp/Desktop/CSC 260/Shape/Shape/obj/Debug/netcoreapp3.1/Shape.dll
+/Users/jacksontrapp/Desktop/CSC 260/Shape/Shape/obj/Debug/netcoreapp3.1/Shape.pdb
+/Users/jacksontrapp/Desktop/CSC 260/Shape/Shape/obj/Debug/netcoreapp3.1/Shape.genruntimeconfig.cache
+/Users/jacksontrapp/Desktop/CSC 260/Shape/Shape/obj/Debug/netcoreapp3.1/Shape.csproj.AssemblyReference.cache
